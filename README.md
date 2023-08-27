@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# My React Journey
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Hosting
+Access the project here : (https://farwayapp.web.app/)
 
 ## Available Scripts
 
